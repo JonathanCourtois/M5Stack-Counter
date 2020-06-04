@@ -24,7 +24,7 @@
 * [About the Project](#about-the-project)
 * [How it work](#how-it-work)
 * [How to use it](#how-to-use-it)
-* [Organization chart](#organisation-chart)
+* [Organization chart](#organization-chart)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
