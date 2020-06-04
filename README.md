@@ -24,7 +24,7 @@
 * [About the Project](#about-the-project)
 * [How it work](#how-it-work)
 * [How to use it](#how-to-use-it)
-* [Organization chart](#organization-chart)
+* [Utilities](#utilities)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -87,14 +87,21 @@ you can :
 </p>
 
 
-<!-- ORGANIZATION CHART -->
-## Organization chart
+<!-- UTILITIES -->
+## Utilities
 
 <p align="center">
   <img width="800" src="https://github.com/JonathanCourtois/M5Stack-Counter/blob/master/Images/M5Stack%20Design/Orga.png"/>
 </p> 
 <p align="center">
   <i>Organization chrat</i>
+</p> 
+
+<p align="center">
+  <img width="400" src="https://github.com/JonathanCourtois/M5Stack-Counter/blob/master/Images/M5Stack%20Design/pinMap.png"/>
+</p> 
+<p align="center">
+  <i>PinMap</i>
 </p> 
 
 <!-- MARKDOWN LINKS & IMAGES -->
