@@ -1,3 +1,12 @@
+/* ********************************************************************** */
+/*                      M5Stack Counter                                   */
+/*  Author : Jonathan Courtois https://github.com/JonathanCourtois        */
+/*  Contributor : Lionel Tombakdjian https://github.com/ltombak           */
+/*  University : Université de la côte d'azur UCA                         */
+/*  Degree : Electronical Embeded System and Telecomunicion Master Degree */
+/*                                                                        */
+/* ********************************************************************** */
+
 #include<M5Stack.h>
 
 // sensors pin
