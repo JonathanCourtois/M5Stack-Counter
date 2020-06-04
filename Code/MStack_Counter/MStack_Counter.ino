@@ -262,7 +262,7 @@ void menuarea(){
   M5.Lcd.setTextSize(3);
   M5.Lcd.setCursor(100, 10);
   M5.Lcd.print("AREA:");
-  // Writing poeples number
+  // Writing peoples number
   M5.Lcd.setTextSize(2);
   M5.Lcd.setCursor(10, 50);
   M5.Lcd.println("Shop area");
@@ -314,10 +314,10 @@ void menuCounter(){
   M5.Lcd.setTextSize(3);
   M5.Lcd.setCursor(90, 10);
   M5.Lcd.print("COUNTER:");
-  // Writing poeples number
+  // Writing peoples number
   M5.Lcd.setTextSize(2);
   M5.Lcd.setCursor(10, 50);
-  M5.Lcd.println("Poeples in the shop");
+  M5.Lcd.println("peoples in the shop");
 
   // testing if a people limit is set
   if (aeraAutoCount and area > 10){
@@ -362,7 +362,7 @@ void displayDistValue(){
   M5.Lcd.fillRect(10, 75, 300, 50, BLACK);
   M5.Lcd.setCursor(10, 75);
   if(dist < 0){
-    M5.Lcd.print("Erreur"); 
+    M5.Lcd.print("Error"); 
   }
   else{
     M5.Lcd.print(dist);
@@ -371,7 +371,7 @@ void displayDistValue(){
   M5.Lcd.fillRect(10, 150, 300, 50, BLACK);
   M5.Lcd.setCursor(10,150);
   if(dist2 < 0){
-    M5.Lcd.print("Erreur"); 
+    M5.Lcd.print("Error"); 
   }
   else{
     M5.Lcd.print(dist2);
@@ -404,7 +404,7 @@ void menuDistance(){
   M5.Lcd.setTextSize(3);
   M5.Lcd.setCursor(90, 10);
   M5.Lcd.print("DISTANCE:");
-  // Writing poeples numbe
+  // Writing peoples numbe
     // text
   M5.Lcd.setTextSize(2);
   M5.Lcd.setCursor(5, 50);
@@ -427,7 +427,7 @@ void distanceMajTimerLoop(){
     if (micros() - timerLoop > 500){ //and the timer is out the time loop
       switch(menu){
         case 3: // counter menu
-          displayCountValue();// refresh poeple count value on the screen
+          displayCountValue();// refresh people count value on the screen
           break;
         case 4: // Distance menu
           displayDistValue(); // refresh value on the screen
