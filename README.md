@@ -17,6 +17,7 @@
     This is a little application to use M5Stack as a Passing Doors sensor.
   </p>
 </p>
+
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
