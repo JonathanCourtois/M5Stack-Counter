@@ -40,6 +40,9 @@ When it's done, if someone pass the door the beans will be interupt. If you know
 <p align="center">
   <img width="400" src="https://github.com/JonathanCourtois/M5Stack-Counter/blob/master/Images/M5Stack%20Design/passingDoor.png"/>
 </p>
+<p align="center">
+  <i>Passing Door</i>
+</p> 
 
 <!-- HOW TO USE IT -->
 ## How to use it
@@ -51,15 +54,19 @@ you can :
   <img width="200" src="https://github.com/JonathanCourtois/M5Stack-Counter/blob/master/Images/M5Stack%20Design/optionFalse.png"/>
   <img width="200" src="https://github.com/JonathanCourtois/M5Stack-Counter/blob/master/Images/M5Stack%20Design/optionTrue.png"/>
 </p>
+
 - Enter in the surface menu<br>
   - This menu allow you to set the area of the shop
+  
 <p align="center">
   <img width="200" src="https://github.com/JonathanCourtois/M5Stack-Counter/blob/master/Images/M5Stack%20Design/areaLimit.png"/>
   <img width="200" src="https://github.com/JonathanCourtois/M5Stack-Counter/blob/master/Images/M5Stack%20Design/areaMenu0.png"/>
   <img width="200" src="https://github.com/JonathanCourtois/M5Stack-Counter/blob/master/Images/M5Stack%20Design/areaMenu30.png"/>
 </p>
+
 - Enter in the counter menu<br>
   - This menu will display the peoples count. It will display a peoples limit if the auto area is activate. this menu is locked if you activate the area auto count but with a non-suitable area.
+  
 <p align="center">
   <img width="200" src="https://github.com/JonathanCourtois/M5Stack-Counter/blob/master/Images/M5Stack%20Design/counter.png"/>
   <img width="200" src="https://github.com/JonathanCourtois/M5Stack-Counter/blob/master/Images/M5Stack%20Design/counterWithoutLimit.png"/>
@@ -67,18 +74,24 @@ you can :
   <img width="200" src="https://github.com/JonathanCourtois/M5Stack-Counter/blob/master/Images/M5Stack%20Design/counterLimit3.png"/>
   <img width="200" src="https://github.com/JonathanCourtois/M5Stack-Counter/blob/master/Images/M5Stack%20Design/counterPopup.png"/>
 </p>
+
 - Enter in the distance menu<br>
   - This menu will display the distance seen by the sensors
+  
 <p align="center">
   <img width="200" src="https://github.com/JonathanCourtois/M5Stack-Counter/blob/master/Images/M5Stack%20Design/distance.png"/>
   <img width="200" src="https://github.com/JonathanCourtois/M5Stack-Counter/blob/master/Images/M5Stack%20Design/distanceMenu.png"/>
   <img width="200" src="https://github.com/JonathanCourtois/M5Stack-Counter/blob/master/Images/M5Stack%20Design/distanceMenuError.png"/>
 </p>
+
+
+
 <p align="center">
   <img width="500" src="https://github.com/JonathanCourtois/M5Stack-Counter/blob/master/Images/M5Stack%20Design/Orga.png"/>
-  <figcaption align="center" ><i>Organization chrat</i></figcaption>
 </p> 
-
+<p align="center">
+  <i>Organization chrat</i>
+</p> 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
