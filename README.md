@@ -45,20 +45,20 @@ When it's done, if someone pass the door the beans will be interupt. If you know
 ## How to use it
 After placing it on a door, you have juste to follow the action buttons names to know what to do.
 you can :
-- Activate or not the auto area count 
+- Activate or not the auto area count <br>
   - This action will create a peoples limit, displayed on the counter menu, if a suitable area is entered in the area menu.
 <p align="center">
   <img width="200" src="https://github.com/JonathanCourtois/M5Stack-Counter/blob/master/Images/M5Stack%20Design/optionFalse.png"/>
   <img width="200" src="https://github.com/JonathanCourtois/M5Stack-Counter/blob/master/Images/M5Stack%20Design/optionTrue.png"/>
 </p>
-- Enter in the surface menu
+- Enter in the surface menu<br>
   - This menu allow you to set the area of the shop
 <p align="center">
   <img width="200" src="https://github.com/JonathanCourtois/M5Stack-Counter/blob/master/Images/M5Stack%20Design/areaLimit.png"/>
   <img width="200" src="https://github.com/JonathanCourtois/M5Stack-Counter/blob/master/Images/M5Stack%20Design/areaMenu0.png"/>
   <img width="200" src="https://github.com/JonathanCourtois/M5Stack-Counter/blob/master/Images/M5Stack%20Design/areaMenu30.png"/>
 </p>
-- Enter in the counter menu
+- Enter in the counter menu<br>
   - This menu will display the peoples count. It will display a peoples limit if the auto area is activate. this menu is locked if you activate the area auto count but with a non-suitable area.
 <p align="center">
   <img width="200" src="https://github.com/JonathanCourtois/M5Stack-Counter/blob/master/Images/M5Stack%20Design/counter.png"/>
@@ -67,7 +67,7 @@ you can :
   <img width="200" src="https://github.com/JonathanCourtois/M5Stack-Counter/blob/master/Images/M5Stack%20Design/counterLimit3.png"/>
   <img width="200" src="https://github.com/JonathanCourtois/M5Stack-Counter/blob/master/Images/M5Stack%20Design/counterPopup.png"/>
 </p>
-- Enter in the distance menu
+- Enter in the distance menu<br>
   - This menu will display the distance seen by the sensors
 <p align="center">
   <img width="200" src="https://github.com/JonathanCourtois/M5Stack-Counter/blob/master/Images/M5Stack%20Design/distance.png"/>
@@ -76,11 +76,8 @@ you can :
 </p>
 <p align="center">
   <img width="500" src="https://github.com/JonathanCourtois/M5Stack-Counter/blob/master/Images/M5Stack%20Design/Orga.png"/>
- 
+  <figcaption align="center" ><i>Organization chrat</i></figcaption>
 </p> 
-<p align="center">
-  Organization chart
-</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
