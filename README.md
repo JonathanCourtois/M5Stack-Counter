@@ -23,6 +23,7 @@
 * [About the Project](#about-the-project)
 * [How it work](#how-it-work)
 * [How to use it](#how-to-use-it)
+* [Organization chart](#organisation-chart)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -85,9 +86,11 @@ you can :
 </p>
 
 
+<!-- ORGANIZATION CHART -->
+## Organization chart
 
 <p align="center">
-  <img width="500" src="https://github.com/JonathanCourtois/M5Stack-Counter/blob/master/Images/M5Stack%20Design/Orga.png"/>
+  <img width="800" src="https://github.com/JonathanCourtois/M5Stack-Counter/blob/master/Images/M5Stack%20Design/Orga.png"/>
 </p> 
 <p align="center">
   <i>Organization chrat</i>
