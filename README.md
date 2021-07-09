@@ -34,11 +34,11 @@ The objectif was to create an IOT system to control the peoples number in an aer
 So the M5Stack can be use to measure distance but also as a passing door counter.
 (This version is without bluetooth).
 
-<!-- HOW IT WORK-->
+<!-- HOW IT WORKS-->
 ## How it work
-First of all you need Two ultrasonic sensor to measure the distance.
-After you have to but theme to create two beam in each side of the door.
-When it's done, if someone pass the door the beans will be interupt. If you know which beam is interupt before the other, you can know the direction so if the person is entering or exiting.
+First of all you need Two ultrasonic sensors to measure the distance.
+After you have to create two beam in each side of the door.
+When it's done, if someone pass the door the beams will be interupt. If you know which beam is interupted before the other, you can know if it's an output or an input.
 <p align="center">
   <img width="400" src="https://github.com/JonathanCourtois/M5Stack-Counter/blob/master/Images/M5Stack%20Design/passingDoor.png"/>
 </p>
