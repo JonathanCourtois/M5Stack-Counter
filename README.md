@@ -22,7 +22,7 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-* [How it work](#how-it-work)
+* [How it works](#how-it-works)
 * [How to use it](#how-to-use-it)
 * [Utilities](#utilities)
 
@@ -35,7 +35,7 @@ So the M5Stack can be use to measure distance but also as a passing door counter
 (This version is without bluetooth).
 
 <!-- HOW IT WORKS-->
-## How it work
+## How it works
 First of all you need Two ultrasonic sensors to measure the distance.
 After you have to create two beam in each side of the door.
 When it's done, if someone pass the door the beams will be interupt. If you know which beam is interupted before the other, you can know if it's an output or an input.
