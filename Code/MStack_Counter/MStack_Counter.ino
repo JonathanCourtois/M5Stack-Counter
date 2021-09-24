@@ -16,24 +16,24 @@ const int trigPin2 = 16;
 const int echoPin2 = 17;
 
 // Variables
-  // Distance tmp
+// Distance tmp
 float dist, dist2;
 float oldDist, oldDist2;
-  // room area
+// room area
 long area = 0 ;
-  // timer loop -> display update
+// timer loop -> display update
 unsigned long timerLoop = millis();
-  // To know which menu is highlighted and selected
+// To know which menu is highlighted and selected
 int select[4];
 int buttonSelect = 0;
 int menu = 0;
-  // To know which action is done
+// To know which action is done
 int action; //action {0, 1, 2, 3} -> {None, buttonA, buttonB, buttonC}
-  // some usefull boolean 
+// some usefull boolean 
 bool refresh = false;
 bool aeraAutoCount = false;
 bool majDistance = false;
-  // Peoples number count
+// Peoples number count
 unsigned int peoplesNumber = 0;
 
 // area int 
